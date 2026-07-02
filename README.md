@@ -23,4 +23,4 @@ Land Record Verifier is a Java-based application that verifies land ownership de
 4. Run the application.
 
 ## Author
-**Vandana H. C.**
+**Vandana H C**
